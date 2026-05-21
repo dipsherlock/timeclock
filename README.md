@@ -10,7 +10,7 @@ It’s designed to be lightweight, precise, and user-friendly — perfect for sm
 - 🕐 Punch In / Punch Out buttons for accurate time tracking
 - 📊 View logged time directly in the app
 - 📅 View hour summaries: **daily**, **weekly**, and **all-time**
-- 📁 Automatic CSV export of time logs
+- 📁 Export time-filtered CSV reports of time logs: **weekly**, **monthly**, **yearly**, and **all-time**
 - 🖥️ Simple Tkinter-based GUI, easy to run on any system with Python installed
 
 ---
@@ -23,24 +23,35 @@ It’s designed to be lightweight, precise, and user-friendly — perfect for sm
 ### Installation
 Clone the repository:
 ```bash
-git clone https://github.com/zegron/timeclock.git
+git clone https://github.com/dipsherlock/timeclock.git
 cd timeclock
+```
 
-Run the App
+### Run the App
 
 Simply run the Python script:
 
+```bash
 python time_clock.py
+```
 
 
 The time clock window will open, allowing you to punch in/out and view your hours.
 
-📂 Output
+---
 
-All time logs are automatically saved as CSV files in the project directory.
+## 📂 Output
+
+All time logs are automatically saved in a CSV file in the project directory. 
+Export Report creates a time-filtered copy of the CSV, free to edit and share without affecting the original CSV file.
 You can open them in Excel, Google Sheets, or any spreadsheet tool for further reporting.
 
-🧑‍💻 Author
+---
+
+## 🧑‍💻 Authors
+
+dipsherlock
+📧 skylertclark@gmail.com
 
 zegron
 📧 matt@onetakemedia.net
