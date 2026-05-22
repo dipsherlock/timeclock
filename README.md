@@ -23,7 +23,7 @@ It’s designed to be lightweight, precise, and user-friendly — perfect for sm
 ### Installation
 Clone the repository:
 ```bash
-git clone https://github.com/dipsherlock/timeclock.git
+git clone https://github.com/zegron/timeclock.git
 cd timeclock
 ```
 
