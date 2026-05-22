@@ -23,15 +23,6 @@ It’s designed to be lightweight, precise, and user-friendly — perfect for sm
 ### Installation
 Clone the repository:
 
-For latest version (v1.2.2):
-
-```bash
-git clone https://github.com/dipsherlock/timeclock.git
-cd timeclock
-```
-
-For original version (v1.1.5):
-
 ```bash
 git clone https://github.com/zegron/timeclock.git
 cd timeclock
